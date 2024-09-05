@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\GitHub\C-Projects Select CMakeLists.txt
