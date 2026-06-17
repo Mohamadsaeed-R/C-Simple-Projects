@@ -1,43 +1,43 @@
-C Simple Projects
+# C Simple Projects
 
 This repository contains small C programs and exercises that I build while learning the C programming language.
 
 The goal of this repository is to practice core C programming concepts through simple examples and mini-projects.
-Topics Covered
+
+## Topics Covered
 
 Examples in this repository may include:
 
-    Variables and data types
-    Control flow (if, switch, loops)
-    Functions
-    Arrays and strings
-    Pointers and basic memory concepts
-    Basic problem solving
-    Small console-based programs
+- Variables and data types
+- Control flow (if, switch, loops)
+- Functions
+- Arrays and strings
+- Pointers and basic memory concepts
+- Basic problem solving
+- Small console-based programs
 
-Purpose
+## Purpose
 
 This repository serves as:
 
-    A personal learning journal for C
-    A collection of simple practice programs
-    A reference for basic C programming concepts
+- A personal learning journal for C
+- A collection of simple practice programs
+- A reference for basic C programming concepts
 
-Future Plans
+## Future Plans
 
 As I progress, I plan to add:
 
-    More advanced C examples
-    Algorithm and data structure practice
-    Data structures implemented in C
-    More complex console-based programs
+- More advanced C examples
+- Algorithm and data structure practice
+- Data structures implemented in C
+- More complex console-based programs
 
-License
+## License
 
-This project is licensed under the GNU GPL v3 License.
+This project is licensed under the **GNU GPL v3 License**.
 
-
-Usage
+## Usage
 
 Anyone is welcome to use these codes in any way they find useful.
 
